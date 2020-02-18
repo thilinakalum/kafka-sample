@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bdf5709-b2bc-4b9d-b568-c58b27263550" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XvsRrCH4upRCR1wkBatTKiTYe1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Grabtech/OrderEngin" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tkm.kafka.tutorial1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConsumerDemo">
+    <configuration name="ConsumerDemo" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tkm.kafka.tutorial1.consumer.ConsumerDemo" />
+      <module name="kafka-sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tkm.kafka.tutorial1.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tkm.kafka.tutorial1.producer.ProducerDemo" />
+      <module name="kafka-sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tkm.kafka.tutorial1.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemoWithCallbacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tkm.kafka.tutorial1.producer.ProducerDemoWithCallbacks" />
+      <module name="kafka-sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tkm.kafka.tutorial1.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsumerDemo" />
+        <item itemvalue="Application.ProducerDemoWithCallbacks" />
+        <item itemvalue="Application.ProducerDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bdf5709-b2bc-4b9d-b568-c58b27263550" name="Default Changelist" comment="" />
+      <created>1581937897709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581937897709</updated>
+      <workItem from="1581937900775" duration="2755000" />
+      <workItem from="1581942646394" duration="3677000" />
+      <workItem from="1581952558590" duration="7616000" />
+      <workItem from="1581960926777" duration="375000" />
+      <workItem from="1581995867944" duration="2694000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="639" y="210" width="676" height="684" key="#ConsumerDemo" timestamp="1581958597739">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state x="639" y="210" width="676" height="684" key="#ConsumerDemo/45.27.1875.1053@45.27.1875.1053" timestamp="1581958597739" />
+    <state x="577" y="214" width="800" height="677" key="#Project_Structure" timestamp="1581937921211">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state x="577" y="214" width="800" height="677" key="#Project_Structure/45.27.1875.1053@45.27.1875.1053" timestamp="1581937921211" />
+    <state x="740" y="205" key="#xdebugger.evaluate" timestamp="1581955867710">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state x="740" y="205" key="#xdebugger.evaluate/45.27.1875.1053@45.27.1875.1053" timestamp="1581955867710" />
+    <state x="765" y="523" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582002458564">
+      <screen x="45" y="27" width="3795" height="1279" />
+    </state>
+    <state x="765" y="523" width="424" height="484" key="FileChooserDialogImpl/45.27.3795.1279@45.27.3795.1279" timestamp="1582002458564" />
+    <state width="1829" height="545" key="GridCell.Tab.0.bottom" timestamp="1581960779676">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state width="1874" height="271" key="GridCell.Tab.0.bottom/0.253.3840.1053@0.253.3840.1053" timestamp="1581948841236" />
+    <state width="1829" height="545" key="GridCell.Tab.0.bottom/45.27.1875.1053@45.27.1875.1053" timestamp="1581960779676" />
+    <state width="1829" height="545" key="GridCell.Tab.0.center" timestamp="1581960779676">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state width="1874" height="271" key="GridCell.Tab.0.center/0.253.3840.1053@0.253.3840.1053" timestamp="1581948841236" />
+    <state width="1829" height="545" key="GridCell.Tab.0.center/45.27.1875.1053@45.27.1875.1053" timestamp="1581960779676" />
+    <state width="1829" height="545" key="GridCell.Tab.0.left" timestamp="1581960779675">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state width="1874" height="271" key="GridCell.Tab.0.left/0.253.3840.1053@0.253.3840.1053" timestamp="1581948841235" />
+    <state width="1829" height="545" key="GridCell.Tab.0.left/45.27.1875.1053@45.27.1875.1053" timestamp="1581960779675" />
+    <state width="1829" height="545" key="GridCell.Tab.0.right" timestamp="1581960779676">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state width="1874" height="271" key="GridCell.Tab.0.right/0.253.3840.1053@0.253.3840.1053" timestamp="1581948841236" />
+    <state width="1829" height="545" key="GridCell.Tab.0.right/45.27.1875.1053@45.27.1875.1053" timestamp="1581960779676" />
+    <state width="1829" height="334" key="GridCell.Tab.1.bottom" timestamp="1581956135945">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state width="1829" height="334" key="GridCell.Tab.1.bottom/45.27.1875.1053@45.27.1875.1053" timestamp="1581956135945" />
+    <state width="1829" height="334" key="GridCell.Tab.1.center" timestamp="1581956135944">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state width="1829" height="334" key="GridCell.Tab.1.center/45.27.1875.1053@45.27.1875.1053" timestamp="1581956135944" />
+    <state width="1829" height="334" key="GridCell.Tab.1.left" timestamp="1581956135943">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state width="1829" height="334" key="GridCell.Tab.1.left/45.27.1875.1053@45.27.1875.1053" timestamp="1581956135943" />
+    <state width="1829" height="334" key="GridCell.Tab.1.right" timestamp="1581956135945">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state width="1829" height="334" key="GridCell.Tab.1.right/45.27.1875.1053@45.27.1875.1053" timestamp="1581956135945" />
+    <state x="761" y="230" width="432" height="645" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581953019327">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state x="761" y="230" width="432" height="645" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/45.27.1875.1053@45.27.1875.1053" timestamp="1581953019327" />
+  </component>
+</project>
